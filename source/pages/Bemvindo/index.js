@@ -14,8 +14,8 @@ export default function Bemvindo() {
       <View style={styles.Logo}>
         <Animatable.Image 
         animation="flipInY"
-        source={require('../../assets/Logo-Marisol.png')}
-        style={{ width:'100%', resizeMode:'center'}}
+        source={require('../../assets/cadastro-produto.png')}
+        style={{ width:'60%', resizeMode:'center'}}
         />
       </View>
 
